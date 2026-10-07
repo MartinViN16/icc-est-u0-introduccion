@@ -13,4 +13,4 @@ Fecha 08 de octubre
 
 Adicioné grafos y se dañó.
 
-![alt text](image.png)
+![alt text](assets/image.png)
