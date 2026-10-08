@@ -11,6 +11,6 @@ Hoy creé el proyecto de java totalmente funcional.
 ## Practica 2
 Fecha 08 de octubre
 
-Adicioné grafos y se dañó.
+Adicioné a-star y se dañó.
 
 ![alt text](assets/image.png)
